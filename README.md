@@ -5,7 +5,8 @@ I work on extracting structured insights from unstructured data (text, documents
 
 Currently looking for AI / ML roles at the intersection of research and production.
 
+Here is my [CV](https://github.com/mohamed-chn/mohamed-chn/blob/main/cv-git.pdf)
 
 ## 📫 Contact
 
-- LinkedIn: [in/mohamed-chn](https://www.linkedin.com/in/mohamed-chenene/)  
+- LinkedIn: [in/mohamed-chn](https://www.linkedin.com/in/mohamed-chenene/)
