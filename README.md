@@ -1,16 +1,13 @@
-## Hi there 👋
+## Profile
+---
 
-<!--
-**mohamed-chn/mohamed-chn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on NLP and Large Language Models, with 4+ years of experience building end-to-end systems from research to production.
+I work on extracting structured insights from unstructured data (text, documents, social media) using LLMs, retrieval systems, and scalable ML pipelines.
 
-Here are some ideas to get you started:
+Currently looking for AI / ML roles at the intersection of research and production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Contact
+---
+
+- LinkedIn: [in/mohamed-chn](https://www.linkedin.com/in/mohamed-chenene/)  
